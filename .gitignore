@@ -1,0 +1,4 @@
+beerlib/__pycache__
+*.log
+*.toml
+*.db*
