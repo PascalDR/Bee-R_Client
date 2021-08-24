@@ -1,5 +1,6 @@
 colorlog
 paho-mqtt
-types-toml
 jsonschema
 schedule
+sqlalchemy
+mypy

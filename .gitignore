@@ -2,3 +2,5 @@ beerlib/__pycache__
 *.log
 *.toml
 *.db*
+.idea/
+.mypy_cache

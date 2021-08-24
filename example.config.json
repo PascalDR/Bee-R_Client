@@ -1,0 +1,23 @@
+{
+  "ServerConfig": {
+    "url": "127.0.0.1",
+    "port": 1883
+  },
+  "ClientConfig": {
+    "metric_interval": 60,
+    "username": "hive-fE312M",
+    "password": "FkrEZsjWN1IWlH"
+  },
+  "Sensors": [
+    {
+      "type": "DummySensor",
+      "id": 0,
+      "pin": 8
+    },
+    {
+      "type": "DummySensor",
+      "id": 1,
+      "pin": 9
+    }
+  ]
+}

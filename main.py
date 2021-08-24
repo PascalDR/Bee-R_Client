@@ -1,4 +1,3 @@
 import beerlib
 
-client = beerlib.fromToml()
-client.start()
+beerlib.init('config.json')
